@@ -1,13 +1,13 @@
-#SongSara Scraper & Downloader
+# SongSara Scraper & Downloader
 
 
-####Requirements
+#### Requirements
 ___
 * Python >=3.4
 * Python module `requests`
 * Python module `BeautifulSoup`
 
-####How to use?
+#### How to use?
 ___
 1. install required packages with `pip3 install -r requirements.txt` 
 2. Copy pages' link to `input_url_list.txt`. One link per line.
@@ -16,7 +16,7 @@ ___
    python3 songsara.py
    ``` 
    
-###What does script do?
+### What does script do?
 ___
 * scrap and get links of songs in each page
 * create a local folder for each page
