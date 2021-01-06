@@ -2,7 +2,7 @@
 
 
 ####Requirements
----
+___
 * Python >=3.4
 * Python module `requests`
 * Python module `BeautifulSoup`
@@ -17,6 +17,7 @@ ___
    ``` 
    
 ###What does script do?
+___
 * scrap and get links of songs in each page
 * create a local folder for each page
 * download each song to that if not exists
