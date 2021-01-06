@@ -1,3 +1,9 @@
+[![GitHub release](https://img.shields.io/badge/release-v1.0-brightgreen?style=flat-square)](https://github.com/mrtztg/songsara-downloder/releases/tag/v1.0)
+[![GitHub stars](https://img.shields.io/github/stars/mrtztg/songsara-downloder.svg?style=flat-square)](https://github.com/mrtztg/songsara-downloder/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/mrtztg/songsara-downloder.svg?style=flat-square)](https://github.com/mrtztg/songsara-downloder/network)
+[![GitHub license](https://img.shields.io/github/license/mrtztg/songsara-downloder.svg?style=flat-square)](https://github.com/mrtztg/songsara-downloder/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/mrtztg/songsara-downloder.svg?style=flat-square)](https://github.com/mrtztg/songsara-downloder/udemy-dl/issues)
+
 # SongSara Scraper & Downloader
 
 
