@@ -44,6 +44,7 @@ class DownloadPack:
             else:
                 stdout.write(f'file "{song.file_name}" is downloading...')
                 stdout.flush()
-                request.urlretrieve(song.url, song_file_path)
+                encoded_url = parse.quote(song.url, safe='://')
+                request.urlretrieve(encoded_url, song_file_path)
                 stdout.write(f'\x1b[2K\rfile "{song.file_name}" downloaded\n')
                 stdout.flush()
