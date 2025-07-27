@@ -3,6 +3,9 @@
 [![GitHub license](https://img.shields.io/github/license/mrtztg/songsara-downloder.svg?style=flat-square)](https://github.com/mrtztg/songsara-downloder/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/mrtztg/songsara-downloder.svg?style=flat-square)](https://github.com/mrtztg/songsara-downloder/udemy-dl/issues)
 
+# UPDATE 🚨
+- **I've recently built a new version which is much easier to use with less bugs. Find it here: [SongSara-dl](https://github.com/mrtztg/songsara-dl)** 
+
 # SongSara Scraper & Downloader
 
 
